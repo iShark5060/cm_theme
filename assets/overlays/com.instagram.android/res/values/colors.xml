@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey_9">@color/text</color>
+    <color name="grey_8">@color/text</color>
+    <color name="grey_7">@color/text</color>
+    <color name="grey_6">@color/text</color>
+    <color name="grey_5">@color/texttt</color>
+    <color name="grey_4">@color/texttt</color>
+    <color name="grey_3">@color/textt</color>
+    <color name="grey_2">@color/text</color>
+    <color name="grey_1_5">@color/texttt</color>
+    <color name="grey_1">@color/texttt</color>
+    <color name="grey_0_5">@color/text</color>
+    <color name="blue_9">@color/text</color>
+    <color name="blue_8">@color/text</color>
+    <color name="blue_7">@color/text</color>
+    <color name="blue_6">@color/text</color>
+    <color name="blue_5">@color/text</color>
+    <color name="blue_4">@color/text</color>
+    <color name="blue_3">@color/text</color>
+    <color name="blue_2">@color/text</color>
+    <color name="blue_1">@color/background</color>
+    <color name="accent_blue_9">@color/text</color>
+    <color name="accent_blue_8">@color/text</color>
+    <color name="accent_blue_7">@color/text</color>
+    <color name="accent_blue_6">@color/text</color>
+    <color name="accent_blue_5">@color/text</color>
+    <color name="accent_blue_4">@color/text</color>
+    <color name="accent_blue_3">@color/text</color>
+    <color name="accent_blue_2">@color/text</color>
+    <color name="accent_blue_1">@color/text</color>
+
+    <color name="grey_dark">@color/grey_7</color>
+    <color name="grey_medium">@color/grey_5</color>
+    <color name="grey_light">@color/grey_3</color>
+
+    <color name="white">#89ABC4</color>
+    <color name="white_transparent">#80ffffff</color>
+    <color name="black">@color/text</color>
+    <color name="black_transparent">#80000000</color>
+    <color name="black_40_transparent">#66000000</color>
+
+    <color name="dialog_background">#55000000</color>
+    <color name="image_placeholder">@color/background</color>
+    <color name="action_bar_top_highlight">@color/background</color>
+    <color name="dark_action_bar_top_highlight">@color/background</color>
+    <color name="action_bar_transparent_background">#20000000</color>
+    <color name="action_bar_transparent_background_pressed_state">#30000000</color>
+    <color name="action_bar_semi_transparent_white">#bf000000</color>
+    <color name="status_bar_blue_background">@color/background_tint</color>
+
+    <color name="nux_dayone_email_enabled">#20ffffff</color>
+    <color name="nux_dayone_email_pressed">#30ffffff</color>
+    <color name="nux_dayone_log_in_enabled">#10ffffff</color>
+    <color name="nux_dayone_log_in_pressed">#18ffffff</color>
+    <color name="multi_reg_token_fill">#fffbfbfb</color>
+    <color name="multi_reg_token_border">#22ffffff</color>
+    <color name="multi_reg_token_text">@color/text</color>
+
+    <color name="null_state_color">#33ffffff</color>
+    <color name="seek_bar_inactive_color">@color/texttt</color>
+    <color name="seek_bar_active_color">@color/text</color>
+    <color name="pill_background">#d9000000</color>
+    <color name="pill_background_pressed">#d9111111</color>
+    <color name="pill_background_outline">#26ffffff</color>
+    <color name="pill_background_outline_pressed">#4dffffff</color>
+    <color name="video_camcorder_dialog_text_color">@color/text</color>
+
+    <color name="camcorder_shutter_outer_ring_disabled">@color/backgroundd</color>
+
+    <color name="filmstrip_dimmer">#cd000000</color>
+    <color name="camera_shutter_outer_ring">#ff3383ce</color>
+    <color name="camera_shutter_outer_ring_pressed">#ff20588c</color>
+
+
+
+    <color name="light_gray">@color/textt</color>
+    <color name="gray">@color/background</color>
+
+
+
+    <color name="iosblue">#ff0044e2</color>
+
+
+    <color name="alt_list_bg_color">@color/background</color>
+
+    <color name="photo_map_disabled_text">#ff98d281</color>
+    <color name="default_slideout_icon_text_color">@color/text</color>
+    <color name="default_slideout_icon_background">#b3000000</color>
+    <color name="default_tab_indicator_color">@color/text</color>
+    <color name="default_circle_indicator_fill_color">#ffffffff</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <color name="default_circle_indicator_stroke_color">#ffdddddd</color>
+    <color name="people_tagging_search_background_default">@color/background</color>
+    <color name="starred_hide_shoutout_color">@color/backgroundd</color>
+    <color name="results_text_color">@color/text</color>
+    <color name="result_bar_active_color">#ff4999da</color>
+    <color name="disabled_text_off_white">#50ffffff</color>
+    <color name="white_30_alpha">#4dffffff</color>
+</resources>

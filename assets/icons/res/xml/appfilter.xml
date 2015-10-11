@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsCallLogActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.CallLogActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.CallLogActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.CallDialtactsActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.RecentCallsLauncherActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.contacts/com.oppo.contacts.OppoDialtactsActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.DialerEntryActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PCUDialtactsActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.htcdialer/com.android.htcdialer.Dialer}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.sec.android.app.dialertab/com.sec.android.app.dialertab.DialerTabActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.DialtactsContactsEntryActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.RecentCallsListActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.firewall.PhoneFireWall}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.LaunchCallInterface}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.Settings}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.LaunchRecentCallsActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.DialtactsCallLogActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.DialerSClass}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.TwDialer}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.DialerTabActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.htccontacts/com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="ic_launcher_phone" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="ic_launcher_phone" />
+</resources>

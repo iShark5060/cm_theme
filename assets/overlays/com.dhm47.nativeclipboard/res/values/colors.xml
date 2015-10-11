@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="deep_purple">#ff411955</color>
+    <color name="dark_deep_purple">#ff2f133c</color>
+    <color name="light_deep_purple">#ff773b94</color>
+    <color name="light_blue">#ff03a9f4</color>
+    <color name="primary_text">@*common:color/text</color>
+    <color name="secondary_text">@*common:color/textt</color>
+
+    <color name="clipboard_bg">#00000000</color>
+    <color name="clipboard_preference_bg">#00000000</color>
+    <color name="background_white">#00000000</color>
+    <color name="textview_textcolor">#ffffffff</color>
+    <color name="text_white">#ffffffff</color>
+    <color name="undo_src">#ccffffff</color>
+
+</resources>

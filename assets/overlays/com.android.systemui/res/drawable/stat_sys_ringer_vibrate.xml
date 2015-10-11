@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+	android:insetLeft="3dp"
+	android:insetRight="3dp">
+	<vector android:width="18dp"
+			android:height="18dp"
+			android:viewportWidth="24.0"
+			android:viewportHeight="24.0">
+
+		<path
+			android:strokeColor="#ffffffff"
+			android:strokeWidth="1"
+			android:pathData="m1,8 v7 m3,-8 v9 m3,-12 v15 l1,1 h8 l1,-1 v-14 l-1,-1 h-8 l-1,1 m13,2 v9 m3,-8 v7"/>
+	</vector>
+</inset>
